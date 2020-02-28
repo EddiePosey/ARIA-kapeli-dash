@@ -1,0 +1,15 @@
+{
+    "name": "ARIA Guidelines",
+    "package": "ARIA Guidelines",
+    "index": "www.w3.org/TR/wai-aria-practices-1.1/index.html",
+    "selectors": {
+        ".tocxref": "Guide",
+        "section h3": "Section"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": false,
+    "ExternalURL": ""
+}
